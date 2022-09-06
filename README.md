@@ -1,6 +1,6 @@
 # adminalert
 
-- What is it?
+# What is it?
 
 Admin alert is chat message script that allows staff members in your server to send an announcement in chat to all players. It uses Badgers DiscordAcePermissions which is configured by groups, all info can be found in the README within the ZIP.
 
