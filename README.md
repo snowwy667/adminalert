@@ -14,5 +14,5 @@ You need to have Badgers DiscordAcePermissions and BadgerDiscordAPI to have all 
 
 # Credits
 
-Badger - https://github.com/JaredScar/Badger_Discord_API or https://docs.badger.store/fivem-discord-scripts/badgertools for the permissions system.
+Badger - https://github.com/JaredScar or https://docs.badger.store/fivem-discord-scripts/badgertools for the permissions system.
 
