@@ -16,3 +16,7 @@ You need to have Badgers DiscordAcePermissions and BadgerDiscordAPI to have all 
 
 Badger - https://github.com/JaredScar or https://docs.badger.store/fivem-discord-scripts/badgertools for the permissions system.
 
+# Example
+
+![image](https://user-images.githubusercontent.com/112670165/188766827-3bae239d-b466-4468-ac3b-2ed8b01ba5a1.png)
+
